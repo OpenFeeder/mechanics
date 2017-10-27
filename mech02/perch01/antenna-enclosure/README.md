@@ -1,4 +1,3 @@
- 	antenna-enclosure-cutted.png
 ![Antenna enclosure](images/antenna-enclosure-cutted.png)
 
 License
