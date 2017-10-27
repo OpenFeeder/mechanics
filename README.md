@@ -1,11 +1,12 @@
 # Mechanics
+==========
 
 
 Development tools
 ----------------------------
-Autodesk(R) Fusion 360(TM)
-Cura 2.7
-Ultimaker 2+ and 3
+- Autodesk(R) Fusion 360(TM)
+- Cura 2.7
+- Ultimaker 2+ and 3
 
 
 License
