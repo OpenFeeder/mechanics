@@ -1,4 +1,4 @@
-![Door](images/door.png)
+![Door](images/Door.png)
 
 License
 ----------------
