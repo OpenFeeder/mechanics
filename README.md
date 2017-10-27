@@ -4,7 +4,7 @@
 
 Development tools
 ---
-- Autodesk(R) Fusion 360(TM)
+- Autodesk&reg; Fusion 360&trade;
 - Cura 2.7
 - Ultimaker 2+ and 3
 
